@@ -4,7 +4,7 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 # Adding the file for recording App password from Bitbucket
-my-git-repo-password
+my-git-repo-passwd.txt
 
 # Node artifact files
 node_modules/
